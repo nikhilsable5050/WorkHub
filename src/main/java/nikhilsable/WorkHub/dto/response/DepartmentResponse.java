@@ -1,4 +1,4 @@
-package nikhilsable.WorkHub.dto;
+package nikhilsable.WorkHub.dto.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

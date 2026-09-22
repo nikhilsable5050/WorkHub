@@ -1,4 +1,4 @@
-package nikhilsable.WorkHub.dto;
+package nikhilsable.WorkHub.dto.request;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
